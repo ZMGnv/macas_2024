@@ -3,5 +3,5 @@
 import random  # Aizmirsi pielikt random
 
 for i in range:
-    random-skaitlis=random.randint(101,501,5)
-print(i)
+    random-skaitlis=random.randint(101,501)
+    print(i)
