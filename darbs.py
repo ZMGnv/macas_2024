@@ -6,4 +6,4 @@ import random
 for i in range():
     random_skaitlis=random.randint(101,501)
     print(random_skaitlis)
-# darbs ir izlabots!
+# darbs ir izlabots! Papildināšu ;knsdg;kjbsnvfd
